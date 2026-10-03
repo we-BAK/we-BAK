@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kidist-hailemichael-713316331/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://x.com/kidistHailemic3" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" /></a> <a href="https://kidist.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> <a href="mailto:hailemichaelkidist@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/hailemichaelkidist" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="kid1924._88166" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.linkedin.com/in/kidist-hailemichael-713316331/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://x.com/kidistHailemic3" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" /></a> <a href="https://kidist.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> <a href="mailto:hailemichaelkidist@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/we-BAK" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://discord.com/users/kid1924._88166" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
 ---
@@ -28,30 +28,20 @@ Software Developer dedicated to crafting resilient, human-centered applications 
 
 ### 📌 Current Status & Focus
 
-* 💼 Working as a Software Developer, building applications with .NET
-* 🌱 Continuously learning and exploring new technologies
-* ⚛️ Exploring quantum computing and its underlying mathematics
+💼 [**Working as a Software Developer, building applications with .NET**](https://github.com/we-BAK) &nbsp;•&nbsp; 🌱 Continuously learning and exploring new technologies &nbsp;•&nbsp; ⚛️ Exploring quantum computing and its underlying mathematics
 
 
 ### 👯 Looking to Collaborate On
 
-* 🌐 Full-stack web applications
-* 🤝 Open-source and real-world problem-solving projects
-* ⚛️ Beginner-friendly quantum computing projects
+🌐 Full-stack web applications &nbsp;•&nbsp; 🤝 Open-source and real-world problem-solving projects &nbsp;•&nbsp; ⚛️ Beginner-friendly quantum computing projects
 
 
 ### 💬 Ask Me About
 
-* ⚛️ Quantum computing
-* ⚛️ React & JavaScript
-* 🟢 Node.js & Express
-* 🔷 .NET
-* 🗄️ PostgreSQL & Supabase
-* 🐳 Docker
+⚛️ Quantum computing &nbsp;•&nbsp; ⚛️ React & JavaScript &nbsp;•&nbsp; 🟢 Node.js & Express &nbsp;•&nbsp; 🔷 .NET &nbsp;•&nbsp; 🗄️ PostgreSQL & Supabase &nbsp;•&nbsp; 🐳 Docker
 
 
-* 📫 **How to reach me**: [hailemichaelkidist@gmail.com](mailto:hailemichaelkidist@gmail.com)
-* ⚡ **Fun fact**: I believe technology should ultimately serve people, and I enjoy exploring quantum mechanics in my spare time! ⚛️☕
+📫 **How to reach me**: [hailemichaelkidist@gmail.com](mailto:hailemichaelkidist@gmail.com) &nbsp;•&nbsp; ⚡ **Fun fact**: I believe technology should ultimately serve people, and I enjoy exploring quantum mechanics in my spare time! ⚛️☕
 
 
 ### 🛠️ Technologies & Tools
@@ -112,38 +102,41 @@ Software Developer dedicated to crafting resilient, human-centered applications 
 
 > Here are a few notable projects I've designed, engineered, and maintained:
 
-#### 1. [Bright Bridge — Autism Care Coordination Platform](https://github.com/we-BAK/Learning_platform)
-*A web-based platform connecting parents, therapists, and managers to streamline autism care coordination, task management, progress tracking, and communication.*
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="left"><a href="https://github.com/we-BAK/Learning_platform">🚀 Bright Bridge — Autism Care Coordination Platform</a></h3>
+      <p align="left"><em>A web-based platform connecting parents, therapists, and managers to streamline autism care coordination, task management, progress tracking, and communication.</em></p>
+      <p align="left">Engineered a role-based web platform with dedicated workflows for parents, therapists, and managers, backed by Supabase/PostgreSQL for structured data management and authentication. Built reusable React interfaces and integrated backend APIs to support registration, therapist assignment, therapy tasks, progress tracking, notifications, and learning materials.</p>
+      <p align="left"><a href="https://github.com/we-BAK/Learning_platform"><b>📁 Source Code</b></a> &nbsp;•&nbsp; <a href="https://learning-platform-eight-sandy.vercel.app"><b>🌐 Live Demo</b></a></p>
+      <p align="left"><b>Stack:</b> <code>React</code> <code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Tailwind CSS</code> <code>REST API</code></p>
+    </td>
+  </tr>
+</table>
 
-Engineered a role-based web platform with dedicated workflows for parents, therapists, and managers, backed by Supabase/PostgreSQL for structured data management and authentication. Built reusable React interfaces and integrated backend APIs to support registration, therapist assignment, therapy tasks, progress tracking, notifications, and learning materials.
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="left"><a href="https://github.com/abyssinia12/KidsLearn">🚀 KidsLearn — Interactive Learning Experience</a></h3>
+      <p align="left"><em>An interactive web learning platform designed to make children's learning more engaging through accessible, structured educational experiences.</em></p>
+      <p align="left">Developed a component-based React application with a responsive interface and reusable learning components. Focused on creating an intuitive user experience while applying modern frontend practices for state management, navigation, and maintainable UI architecture.</p>
+      <p align="left"><a href="https://github.com/abyssinia12/KidsLearn"><b>📁 Source Code</b></a></p>
+      <p align="left"><b>Stack:</b> <code>React</code> <code>JavaScript</code> <code>Tailwind CSS</code> <code>Lucide React</code> <code>HTML</code> <code>CSS</code></p>
+    </td>
+  </tr>
+</table>
 
-[📁 Source Code](https://github.com/we-BAK/Learning_platform) · [🌐 Live Demo](learning-platform-eight-sandy.vercel.app)
-
-**Stack:** `React` `JavaScript` `Node.js` `Express` `Supabase` `PostgreSQL` `Tailwind CSS` `REST API`
-
----
-
-#### 2. [KidsLearn — Interactive Learning Experience](https://github.com/abyssinia12/KidsLearn)
-*An interactive web learning platform designed to make children's learning more engaging through accessible, structured educational experiences.*
-
-Developed a component-based React application with a responsive interface and reusable learning components. Focused on creating an intuitive user experience while applying modern frontend practices for state management, navigation, and maintainable UI architecture.
-
-[📁 Source Code](https://github.com/abyssinia12/KidsLearn)
-
-**Stack:** `React` `JavaScript` `Tailwind CSS` `Lucide React` `HTML` `CSS`
-
----
-
-#### 3. [AquaFlow — Water Distribution Management System](https://github.com/we-BAK/waterdistributor)
-*A full-stack management system for streamlining water sales, inventory, pricing, and operational management.*
-
-Built a full-stack application connecting a React frontend with a Node.js/Express backend and Supabase database. Implemented role-based business workflows for managing water products, pricing, stock, sales, and operational data through a centralized management interface.
-
-[📁 Source Code](https://github.com/we-BAK/waterdistributor) · [🌐 Live Demo](https://amesigin.vercel.app/)
-
-**Stack:** `React` `JavaScript` `Node.js` `Express` `Supabase` `PostgreSQL` `REST API`
-
----
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="left"><a href="https://github.com/we-BAK/waterdistributor">🚀 AquaFlow — Water Distribution Management System</a></h3>
+      <p align="left"><em>A full-stack management system for streamlining water sales, inventory, pricing, and operational management.</em></p>
+      <p align="left">Built a full-stack application connecting a React frontend with a Node.js/Express backend and Supabase database. Implemented role-based business workflows for managing water products, pricing, stock, sales, and operational data through a centralized management interface.</p>
+      <p align="left"><a href="https://github.com/we-BAK/waterdistributor"><b>📁 Source Code</b></a> &nbsp;•&nbsp; <a href="https://amesigin.vercel.app/"><b>🌐 Live Demo</b></a></p>
+      <p align="left"><b>Stack:</b> <code>React</code> <code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>Supabase</code> <code>PostgreSQL</code> <code>REST API</code></p>
+    </td>
+  </tr>
+</table>
 
 ### 📊 GitHub Activity & Analytics
 
@@ -156,5 +149,5 @@ Built a full-stack application connecting a React frontend with a Node.js/Expres
 </div>
 
 <div align="center">
-  <sub>Built with ❤️ and crafted for GitHub · Star ⭐ this profile if you like it!</sub>
+  <sub> Star ⭐ this profile if you like it!</sub>
 </div>
