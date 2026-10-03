@@ -1,16 +1,16 @@
 <div align="center">
-  <h1>Hey there! I'm <a href="https://github.com/hailemichaelkidist">Kidist Hailemichael</a> 👋</h1>
+  <h1>Hey there! I'm <a href="https://github.com/we-BAK">Kidist Hailemichael</a> 👋</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Software%20Developer;Building%20Applications%20with%20.NET;React%20%26%20JavaScript%20Developer;Exploring%20Quantum%20Computing%20%26%20Mathematics;Continuously%20Learning%20%26%20Building%20to%20Serve" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hailemichaelkidist&label=PROFILE+VIEWS&color=0ea5e9&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=we-BAK&label=PROFILE+VIEWS&color=0ea5e9&style=flat-square" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kidist-hailemichael-713316331/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://x.com/kidistHailemic3" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" /></a> <a href="https://kidist.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> <a href="mailto:hailemichaelkidist@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="kid1924._88166" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.linkedin.com/in/kidist-hailemichael-713316331/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://x.com/kidistHailemic3" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" /></a> <a href="https://kidist.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> <a href="mailto:hailemichaelkidist@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/hailemichaelkidist" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="kid1924._88166" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
 ---
@@ -149,9 +149,9 @@ Built a full-stack application connecting a React frontend with a Node.js/Expres
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=hailemichaelkidist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Kidist Hailemichael's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hailemichaelkidist&theme=tokyonight&hide_border=true" alt="Kidist Hailemichael's Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailemichaelkidist&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=we-BAK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Kidist Hailemichael's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=we-BAK&theme=tokyonight&hide_border=true" alt="Kidist Hailemichael's Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=we-BAK&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
   </p>
 </div>
 
