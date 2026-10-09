@@ -142,8 +142,8 @@ Software Developer dedicated to crafting resilient, human-centered applications 
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=we-BAK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Kidist Hailemichael's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=we-BAK&theme=tokyonight&hide_border=true" alt="Kidist Hailemichael's Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=we-BAK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kidist Hailemichael's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com/?user=we-BAK&theme=tokyonight&hide_border=true" alt="Kidist Hailemichael's Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=we-BAK&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
   </p>
 </div>
